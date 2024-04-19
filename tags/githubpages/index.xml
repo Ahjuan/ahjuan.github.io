@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHubPages on Ahjuan</title>
+    <link>https://ahjuan.com/tags/githubpages/</link>
+    <description>Recent content in GitHubPages on Ahjuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ahjuan Kao</copyright>
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://ahjuan.com/tags/githubpages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搭建及部署一个开源免费的个人网站</title>
+      <link>https://ahjuan.com/posts/build-my-blog-20240413/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://ahjuan.com/posts/build-my-blog-20240413/</guid>
+      <description>前言 # 从2014年注册了第一个域名起，我就开始折腾WordPress、Typecho等PHP博客平台，沉醉在搭建平台的快乐上，却忘记了最重要的事情，记录和分享。后来，我了解到了开源静态网站平台——Hugo，它操作优雅，我把它托管在Cloudflare和GitHub上速度和安全无虞，而且节省了服务器的费用。采用 Markdown 进行文章编辑，可以最大限度的让我关注“记录和分享”这件事情的本身，非常适合我。 现在，以我自己的实践过程为例进行记录，让我们一起来吧～
+1.基础 # 1.1 Hugo # 1.1.1 它是什么 # Hugo 是最快最流行的开源静态站点生成器之一。它是用 Go 语言实现的博客工具，采用 Markdown 进行文章编辑，自动生成静态站点文件，支持丰富的主题配置，也可以通过 js 嵌入插件。
+1.1.2 如何安装 # 我的电脑使用Linux 的 openSUSE 发行版系统， 参考Hugo文档，通过包管理器（Package Manager）在电脑里安装 Hugo 的扩展版本：</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://ahjuan.com/posts/build-my-blog-20240413/featurebmb.svg" />
+    </item>
+    
+  </channel>
+</rss>

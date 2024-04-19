@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>-Io on Ahjuan</title>
+    <link>http://localhost:1313/categories/-io/</link>
+    <description>Recent content in -Io on Ahjuan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Ahjuan Kao</copyright>
+    <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/-io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>搭建及部署一个开源免费的个人网站</title>
+      <link>http://localhost:1313/posts/build-my-blog-20240413/</link>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/build-my-blog-20240413/</guid>
+      <description>前言 # 从2014年注册了第一个域名起，我就开始折腾WordPress、Typecho等PHP博客平台，沉醉在搭建平台的快乐上，却忘记了最重要的事情，记录和分享。后来，我了解到了开源静态网站平台——Hugo，它操作优雅，我把它托管在Cloudflare和GitHub上速度和安全无虞，而且节省了服务器的费用。采用 Markdown 进行文章编辑，可以最大限度的让我关注“记录和分享”这件事情的本身，非常适合我。 现在，以我自己的实践过程为例进行记录，让我们一起来吧～</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/build-my-blog-20240413/featurebmb.svg" />
+    </item>
+    
+  </channel>
+</rss>
